@@ -9,7 +9,7 @@ class App < Sinatra::Base
   # resp.write "Hello World!"
   #
   get "/" do
-    "Hello World!"
+    "Hello, World!"
   end
 
 end
